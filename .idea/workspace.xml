@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5205cf86-8fd5-46ca-888e-cd5f3f536a53" name="Changes" comment="Se crea ejercicio 18, para trabajo practico">
+    <list default="true" id="5205cf86-8fd5-46ca-888e-cd5f3f536a53" name="Changes" comment="Se crea ejercicio 19, para trabajo practico">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
     "Application.Ejercicio18.executor": "Run",
     "Application.Ejercicio19.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
+    "Application.Ejercicio20.executor": "Run",
     "Application.Ejercicio3.executor": "Run",
     "Application.Ejercicio4.executor": "Run",
     "Application.Ejercicio5.executor": "Run",
@@ -63,7 +64,7 @@
       <recent name="ejercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio19">
+  <component name="RunManager" selected="Application.Ejercicio21">
     <configuration name="Ejercicio17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio17" />
       <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
@@ -103,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio2" />
+    <configuration name="Ejercicio20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio20" />
       <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio8" />
+    <configuration name="Ejercicio21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio21" />
       <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio21" />
+        <item itemvalue="Application.Ejercicio20" />
         <item itemvalue="Application.Ejercicio19" />
         <item itemvalue="Application.Ejercicio18" />
         <item itemvalue="Application.Ejercicio17" />
-        <item itemvalue="Application.Ejercicio2" />
-        <item itemvalue="Application.Ejercicio8" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725653749814</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Se crea ejercicio 19, para trabajo practico">
+      <option name="closed" value="true" />
+      <created>1725654707552</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1725654707552</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -418,6 +427,7 @@
     <MESSAGE value="Se crea ejercicio 2, para trabajo practico" />
     <MESSAGE value="Se crea ejercicio 17, para trabajo practico" />
     <MESSAGE value="Se crea ejercicio 18, para trabajo practico" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se crea ejercicio 18, para trabajo practico" />
+    <MESSAGE value="Se crea ejercicio 19, para trabajo practico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crea ejercicio 19, para trabajo practico" />
   </component>
 </project>
