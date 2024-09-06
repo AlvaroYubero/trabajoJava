@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5205cf86-8fd5-46ca-888e-cd5f3f536a53" name="Changes" comment="Se crea ejercicio 16, para trabajo practico" />
+    <list default="true" id="5205cf86-8fd5-46ca-888e-cd5f3f536a53" name="Changes" comment="Se crea ejercicio 18, para trabajo practico">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio19.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,11 +42,16 @@
     "Application.Ejercicio14.executor": "Run",
     "Application.Ejercicio15.executor": "Run",
     "Application.Ejercicio16.executor": "Run",
+    "Application.Ejercicio17.executor": "Run",
+    "Application.Ejercicio18.executor": "Run",
+    "Application.Ejercicio19.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
     "Application.Ejercicio3.executor": "Run",
     "Application.Ejercicio4.executor": "Run",
     "Application.Ejercicio5.executor": "Run",
     "Application.Ejercicio6.executor": "Run",
+    "Application.Ejercicio7.executor": "Run",
+    "Application.Ejercicio8.executor": "Run",
     "Application.Ejercicio9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -55,9 +63,9 @@
       <recent name="ejercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio7">
-    <configuration name="Ejercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio13" />
+  <component name="RunManager" selected="Application.Ejercicio19">
+    <configuration name="Ejercicio17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio17" />
       <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio14" />
+    <configuration name="Ejercicio18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio18" />
       <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio15" />
+    <configuration name="Ejercicio19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio19" />
       <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio16" />
+    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio2" />
       <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio7" />
+    <configuration name="Ejercicio8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio8" />
       <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ejercicio7" />
-        <item itemvalue="Application.Ejercicio16" />
-        <item itemvalue="Application.Ejercicio15" />
-        <item itemvalue="Application.Ejercicio14" />
-        <item itemvalue="Application.Ejercicio13" />
+        <item itemvalue="Application.Ejercicio19" />
+        <item itemvalue="Application.Ejercicio18" />
+        <item itemvalue="Application.Ejercicio17" />
+        <item itemvalue="Application.Ejercicio2" />
+        <item itemvalue="Application.Ejercicio8" />
       </list>
     </recent_temporary>
   </component>
@@ -348,12 +356,51 @@
       <option name="project" value="LOCAL" />
       <updated>1725649754622</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Se crea ejercicio 7, para trabajo practico">
+      <option name="closed" value="true" />
+      <created>1725650267593</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725650267593</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Se crea ejercicio 8, para trabajo practico">
+      <option name="closed" value="true" />
+      <created>1725653022718</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1725653022718</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Se crea ejercicio 2, para trabajo practico">
+      <option name="closed" value="true" />
+      <created>1725653136700</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1725653136700</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Se crea ejercicio 17, para trabajo practico">
+      <option name="closed" value="true" />
+      <created>1725653433004</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1725653433004</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Se crea ejercicio 18, para trabajo practico">
+      <option name="closed" value="true" />
+      <created>1725653749814</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1725653749814</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se crea ejercicio 1, para trabajo practico" />
-    <MESSAGE value="Se crea ejercicio 2, para trabajo practico" />
     <MESSAGE value="Se crea ejercicio 3, para trabajo practico" />
     <MESSAGE value="Se crea ejercicio 4, para trabajo practico" />
     <MESSAGE value="Se crea ejercicio 5, para trabajo practico" />
@@ -366,6 +413,11 @@
     <MESSAGE value="Se crea ejercicio 14, para trabajo practico" />
     <MESSAGE value="Se crea ejercicio 15, para trabajo practico" />
     <MESSAGE value="Se crea ejercicio 16, para trabajo practico" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se crea ejercicio 16, para trabajo practico" />
+    <MESSAGE value="Se crea ejercicio 7, para trabajo practico" />
+    <MESSAGE value="Se crea ejercicio 8, para trabajo practico" />
+    <MESSAGE value="Se crea ejercicio 2, para trabajo practico" />
+    <MESSAGE value="Se crea ejercicio 17, para trabajo practico" />
+    <MESSAGE value="Se crea ejercicio 18, para trabajo practico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crea ejercicio 18, para trabajo practico" />
   </component>
 </project>
