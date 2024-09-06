@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5205cf86-8fd5-46ca-888e-cd5f3f536a53" name="Changes" comment="Se crea ejercicio 15, para trabajo practico">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio16.java" afterDir="false" />
-    </list>
+    <list default="true" id="5205cf86-8fd5-46ca-888e-cd5f3f536a53" name="Changes" comment="Se crea ejercicio 16, para trabajo practico" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,20 +55,7 @@
       <recent name="ejercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio16">
-    <configuration name="Ejercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio12" />
-      <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ejercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ejercicio7">
     <configuration name="Ejercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio13" />
       <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
@@ -124,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio7" />
+      <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio7" />
         <item itemvalue="Application.Ejercicio16" />
         <item itemvalue="Application.Ejercicio15" />
         <item itemvalue="Application.Ejercicio14" />
         <item itemvalue="Application.Ejercicio13" />
-        <item itemvalue="Application.Ejercicio12" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725649523821</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Se crea ejercicio 16, para trabajo practico">
+      <option name="closed" value="true" />
+      <created>1725649754622</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725649754622</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -360,6 +365,7 @@
     <MESSAGE value="Se crea ejercicio 13, para trabajo practico" />
     <MESSAGE value="Se crea ejercicio 14, para trabajo practico" />
     <MESSAGE value="Se crea ejercicio 15, para trabajo practico" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se crea ejercicio 15, para trabajo practico" />
+    <MESSAGE value="Se crea ejercicio 16, para trabajo practico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crea ejercicio 16, para trabajo practico" />
   </component>
 </project>
