@@ -7,7 +7,6 @@ public class Ejercicio10 {
         for (int i = 1; i <= a; i++) {
             factorial *= i;
         }
-        //Resultado:
         System.out.println("El factorial de " + a + " es: " + factorial);
     }
 }
