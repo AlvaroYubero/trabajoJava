@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5205cf86-8fd5-46ca-888e-cd5f3f536a53" name="Changes" comment="Se crea ejercicio 6, para trabajo practico">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio20.java" afterDir="false" />
-    </list>
+    <list default="true" id="5205cf86-8fd5-46ca-888e-cd5f3f536a53" name="Changes" comment="Se crea ejercicio 9, para trabajo practico" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +37,7 @@
     "Application.Ejercicio4.executor": "Run",
     "Application.Ejercicio5.executor": "Run",
     "Application.Ejercicio6.executor": "Run",
+    "Application.Ejercicio9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -52,9 +48,9 @@
       <recent name="ejercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio9">
-    <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio3" />
+  <component name="RunManager" selected="Application.Ejercicio10">
+    <configuration name="Ejercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio10" />
       <module name="Ejercicio1BootCamp_Alvaro_Yubero" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio10" />
         <item itemvalue="Application.Ejercicio9" />
         <item itemvalue="Application.Ejercicio6" />
         <item itemvalue="Application.Ejercicio5" />
         <item itemvalue="Application.Ejercicio4" />
-        <item itemvalue="Application.Ejercicio3" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +253,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725570949851</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Se crea ejercicio 9, para trabajo practico">
+      <option name="closed" value="true" />
+      <created>1725645010995</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725645010995</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Se crea ejercicio 9, para trabajo practico">
+      <option name="closed" value="true" />
+      <created>1725645057909</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725645057909</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -267,6 +279,7 @@
     <MESSAGE value="Se crea ejercicio 4, para trabajo practico" />
     <MESSAGE value="Se crea ejercicio 5, para trabajo practico" />
     <MESSAGE value="Se crea ejercicio 6, para trabajo practico" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se crea ejercicio 6, para trabajo practico" />
+    <MESSAGE value="Se crea ejercicio 9, para trabajo practico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crea ejercicio 9, para trabajo practico" />
   </component>
 </project>
